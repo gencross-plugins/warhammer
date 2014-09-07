@@ -18,7 +18,7 @@
 	
 	<scm>
 		<connection>scm:git:git://github.com/gencross-plugins/warhammer.git</connection>
-		<developerConnection>scm:git@github.com:gencross-plugins/warhammer.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:gencross-plugins/warhammer.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	
